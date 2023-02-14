@@ -128,7 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Text Resoures
+# Text Resources
 test_output.txt
 test_TextResources.txt
 test_TextResourcesWithGR.txt
